@@ -8,8 +8,8 @@
 
 ### 🌐 **Connect With Me**
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadeemhussain4462)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeem-hussain-96080820b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://personal-portfolio-one-eosin.vercel.app/)
 
 ---
 
