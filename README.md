@@ -2,9 +2,9 @@
 
 💻 **Aspiring MERN Stack Developer**  
 🌟 Passionate about crafting **Engaging**, **responsive** and **user-friendly web applications**.  
-🎯 Currently learning and building expertise in **TypeScript**, **Cloudinary API**, and **FastAPI**, along with the **MERN stack**.  
+🎯 Currently learning and building expertise in **Modern JavaScript**, **TypeScript** and **React**, along with the **MERN stack**.  
 
----
+--- 
 
 ### 🌐 **Connect With Me**
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadeemhussain4462)
@@ -15,7 +15,7 @@
 
 ### 🛠️ **Tech Stack**
 #### **Frontend**
-**![HTML5]**(https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -58,15 +58,7 @@
 ---
 
 ### 🚀 **How to Reach Me**
-📧 **Email:** nadeem@example.com  
-🌐 **Portfolio:** [View Portfolio](https://your-portfolio-link.com)  
+📧 **Email:** hoteleyenadeem@gmail.com  
+🌐 **Portfolio:** [View Portfolio](https://personal-portfolio-one-eosin.vercel.app/)  
 
 ---
-
-### **How to Use This**
-1. Replace `"nadeem@example.com"` with your actual email.
-2. Update the **LinkedIn profile** and **Portfolio** links with your personal URLs.
-3. Update your **GitHub stats username** in the links to `nadeemhussain4462`.
-4. If you want to add more badges, use [Shields.io](https://shields.io) to create them.
-
-This updated README file now includes **TypeScript**, **Cloudinary API**, and **FastAPI**, highlighting your expertise. Let me know if you'd like further enhancements! 🚀
